@@ -1,0 +1,1 @@
+ds_list_destroy(locked_bullets);// prevents leak memory every time the boss dies.
