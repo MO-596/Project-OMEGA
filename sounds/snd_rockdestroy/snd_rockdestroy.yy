@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_rockdestroy",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.15644,
+  "exportDir":"",
+  "name":"snd_rockdestroy",
+  "parent":{
+    "name":"Game Mechanics",
+    "path":"folders/Sounds/SFX/Game Mechanics.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_rockdestroy.wav",
+  "volume":1.0,
+}
