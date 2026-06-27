@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Level_3",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":81.89576,
+  "exportDir":"",
+  "name":"Level_3",
+  "parent":{
+    "name":"Boss Fights",
+    "path":"folders/Sounds/Music/Boss Fights.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Level_3.wav",
+  "volume":1.0,
+}
