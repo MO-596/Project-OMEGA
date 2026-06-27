@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Boss_Battle_6_V1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":99.61685,
+  "exportDir":"",
+  "name":"Boss_Battle_6_V1",
+  "parent":{
+    "name":"Boss Fights",
+    "path":"folders/Sounds/Music/Boss Fights.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Boss_Battle_6_V1.wav",
+  "volume":1.0,
+}
